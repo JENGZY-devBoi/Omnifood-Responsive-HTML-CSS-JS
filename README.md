@@ -1,2 +1,2 @@
 # Omnifood-Responsive-HTML-CSS-JS
-## Jonas Schmedtmann - Udemy course 
+Instructor &mdash; Jonas Schmedtmann
